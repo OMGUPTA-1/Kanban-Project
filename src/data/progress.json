@@ -1,0 +1,33 @@
+[
+  {
+    "id": "5",
+    "priority": 1,
+    "title": "Onboarding Illustrations",
+    "images": ["oboarding_illustrations.jpg"],
+    "people": [
+      { "avatar": "4.jpg" },
+      { "avatar": "5.jpg" },
+      { "avatar": "2.jpg" }
+    ],
+    "number_comments": 14,
+    "number_files": 15
+  },
+  {
+    "id": "6",
+    "priority": 1,
+    "title": "Moodboard",
+    "images": ["moodboard_1.jpg", "moodboard_2.jpg"],
+    "people": [{ "avatar": "4.jpg" }],
+    "number_comments": 9,
+    "number_files": 10
+  },
+  {
+    "id": "7",
+    "priority": 2,
+    "title": "Moodboard",
+    "images": ["moodboard_1.jpg", "moodboard_2.jpg"],
+    "people": [{ "avatar": "4.jpg" }],
+    "number_comments": 9,
+    "number_files": 10
+  }
+]

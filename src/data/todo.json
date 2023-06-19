@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "priority": 1,
+    "title": "Brainstorming",
+    "content": "Brainstorming brings team members' diverse experience into play.",
+    "people": [
+      { "avatar": "2.jpg" },
+      { "avatar": "5.jpg" },
+      { "avatar": "4.jpg" }
+    ],
+    "number_comments": 12,
+    "number_files": 0
+  },
+  {
+    "id": "2",
+    "priority": 2,
+    "title": "Research",
+    "content": "User research helps you to create an optimal product for users.",
+    "people": [{ "avatar": "6.jpg" }, { "avatar": "3.jpg" }],
+    "number_comments": 10,
+    "number_files": 3
+  },
+  {
+    "id": "3",
+    "priority": 2,
+    "title": "Wireframes",
+    "content": "Low fidelity wireframes include the most basic content and visuals.",
+    "people": [
+      { "avatar": "2.jpg" },
+      { "avatar": "3.jpg" },
+      { "avatar": "5.jpg" }
+    ],
+    "number_comments": 7,
+    "number_files": 1
+  },
+  {
+    "id": "4",
+    "priority": 2,
+    "title": "Wireframes",
+    "content": "Low fidelity wireframes include the most basic content and visuals.",
+    "people": [
+      { "avatar": "2.jpg" },
+      { "avatar": "4.jpg" },
+      { "avatar": "5.jpg" }
+    ],
+    "number_comments": 7,
+    "number_files": 1
+  }
+]
